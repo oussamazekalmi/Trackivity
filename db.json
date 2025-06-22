@@ -1,0 +1,258 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123",
+      "email": "oussama@gmail.com",
+      "adresse": "DHAR LAMHALLA LAZARET 82 OUJDA",
+      "telephone_stagiaire": "+212603900826",
+      "telephone_parent": "+212605600468",
+      "nom": "ZEKALMI",
+      "prenom": "Oussama",
+      "role": "admin",
+      "fonction": "Assistance d'administration",
+      "genre": "M"
+    },
+    {
+      "id": "2",
+      "username": "stagiaire1",
+      "password": "stagiaire123",
+      "email": "yassine@gmail.com",
+      "adresse": "RJAF ELLAH 1032 OUJDA",
+      "telephone_stagiaire": "+212732881426",
+      "telephone_parent": "+212614684290",
+      "nom": "EL RHAZZALI",
+      "prenom": "Yassine",
+      "role": "stagiaire",
+      "fonction": "Developpement Web Option Full Stack",
+      "genre": "M"
+    },
+    {
+      "id": "3",
+      "username": "stagiaire2",
+      "password": "stagiaire234",
+      "email": "zineb@gmail.com",
+      "adresse": "Ananass 120 OUJDA",
+      "telephone_stagiaire": "+212634567860",
+      "telephone_parent": "+212692146277",
+      "nom": "ATMANE",
+      "prenom": "Zineb",
+      "role": "stagiaire",
+      "fonction": "Developpement Web Option Full Stack",
+      "genre": "F"
+    }
+  ],
+  "activities": [
+    {
+      "id": "1",
+      "name": "Séance Informatique",
+      "description": "Une approche systémique et éducative pour renforcer l'interaction des stagiaires dans le marché de travail informatique et les bonnes pratiques a suivres.",
+      "dateDebut": "2024-03-02",
+      "tempsDebut": "09:00",
+      "dateFin": "2024-03-02",
+      "tempsFin": "12:00",
+      "location": "Salle d'organisation",
+      "statut": "Validée",
+      "photo": "TbLyEUFDCznjKIjFYyMNyejnlQvFuYGVRaLHTaOyyUnZClLPVl.png",
+      "montant": 0,
+      "encadrent": "Mr.BOUCHERROUR",
+      "created_at": "2024-3-27 17:0:14",
+      "updated_at": "2024-05-02 16:8:23"
+    },
+    {
+      "id": "2",
+      "name": "Séance innovative ",
+      "description": "Une approche intensive pour exploiter les talents des jeûnes de l'OFPPT.",
+      "dateDebut": "2024-03-04",
+      "tempsDebut": "08:30",
+      "dateFin": "2024-03-04",
+      "tempsFin": "10:00",
+      "location": "Salle d'organisation",
+      "statut": "Validée",
+      "photo": "aTmRBvciMnDbwVLRgDpylftXzPEzckwkhGfrbDGnJZLCumMCzN.png",
+      "montant": 0,
+      "encadrent": "Mme.KHALIL Amal",
+      "created_at": "2024-3-27 17:20:17",
+      "updated_at": "2024-05-02 16:8:2"
+    },
+    {
+      "id": "3",
+      "name": "Séance sportive",
+      "description": "Une session énergique qui mélange cardio, renforcement musculaire et flexibilité pour une séance d'entraînement complète. Idéal pour brûler des calories, améliorer la forme physique générale et renforcer le corps.",
+      "dateDebut": "2024-03-28",
+      "tempsDebut": "13:30",
+      "dateFin": "2024-03-28",
+      "tempsFin": "16:00",
+      "location": "Terrain de sport",
+      "statut": "Validée",
+      "photo": "OsBpagkZzgFXtPZrLDMUXKwoYPVnPmEtBJLQHohsbcjtcCojSZ.png",
+      "montant": 0,
+      "encadrent": "Mr.BOUCHERROUR",
+      "created_at": "2024-3-27 17:33:30",
+      "updated_at": "2024-05-02 16:7:45"
+    },
+    {
+      "id": "4",
+      "name": "Séance de bowling",
+      "description": "Une session de divertissement amusante et compétitive où les participants peuvent profiter de parties de bowling avec leurs amis et leur famille. L'occasion parfaite de perfectionner ses compétences en visant les quilles et en visant le strike!",
+      "dateDebut": "2024-05-12",
+      "tempsDebut": "14:00",
+      "dateFin": "2024-05-12",
+      "tempsFin": "18:30",
+      "location": "Centre de bowling",
+      "statut": "Validée",
+      "photo": "vAKhAXPweXiNXRKvlXaczqfrCjkIbQRyTqCopooVNQNwCGsmir.png",
+      "montant": 100,
+      "encadrent": "Mr.BOUCHERROUR",
+      "created_at": "2024-3-27 17:35:13",
+      "updated_at": "2024-05-02 16:6:25"
+    },
+    {
+      "id": "5",
+      "name": "Séance de football",
+      "description": "Un programme d'entraînement intensif conçu pour améliorer les compétences techniques, tactiques et physiques des joueurs de football. Les participants bénéficieront de l'expertise d'entraîneurs qualifiés pour perfectionner leur jeu individuel et collectif.",
+      "dateDebut": "2024-06-28",
+      "tempsDebut": "16:00",
+      "dateFin": "2024-06-28",
+      "tempsFin": "18:30",
+      "location": "Stade de football ",
+      "statut": "Validée",
+      "photo": "ClSMJxfFgMwbWUBdsXzCpzmgQrxxRHHzpzyTBPXQLvdQfLLrvV.png",
+      "montant": 0,
+      "encadrent": "Mr.BOUCHERROUR",
+      "created_at": "2024-3-27 17:37:36",
+      "updated_at": "2024-05-04 19:9:58"
+    },
+    {
+      "id": "6",
+      "name": "Séance de chess",
+      "description": "Une séance d'apprentissage et de pratique du jeu d'échecs, où les participants pourront développer leurs compétences stratégiques, leur pensée critique et leur capacité de concentration. Parfait pour les débutants souhaitant apprendre ou pour les joueurs expérimentés cherchant à perfectionner leur jeu.",
+      "dateDebut": "2024-05-08",
+      "tempsDebut": "09:30",
+      "dateFin": "2024-05-08",
+      "tempsFin": "12:00",
+      "location": "Club d'échecs",
+      "statut": "Validée",
+      "photo": "BiSiKvhGCrHohQEEgKAzsunMLnQERzyvzwrOEkuWOYILhynNZW.png",
+      "montant": 0,
+      "encadrent": "Mme.KHALIL Amal",
+      "created_at": "2024-3-27 17:39:49",
+      "updated_at": "2024-05-02 16:6:37"
+    },
+    {
+      "id": "7",
+      "name": "Séance anglaise",
+      "description": "Une session interactive axée sur l'amélioration des compétences en communication en anglais. Les participants auront l'occasion de pratiquer la conversation, d'acquérir du vocabulaire et d'améliorer leur compréhension de la langue anglaise dans un environnement convivial et encourageant.",
+      "dateDebut": "2024-05-30",
+      "tempsDebut": "08:30",
+      "dateFin": "2024-05-30",
+      "tempsFin": "13:30",
+      "location": "Centre de langues",
+      "statut": "Validée",
+      "photo": "exUpKpAISTkZtkPJkxczygkJsbBAgeBZitttYYdNBAgvhMcbjg.png",
+      "montant": 50,
+      "encadrent": "Mme.BOUGHALEB",
+      "created_at": "2024-3-27 17:43:37",
+      "updated_at": "2024-05-02 16:6:13"
+    },
+    {
+      "id": "8",
+      "name": "Décoration des salles des fêtes",
+      "description": "L'activité de \"Décoration des salles des fêtes\" consiste à concevoir et aménager des espaces événementiels de manière esthétique et festive pour créer des ambiances uniques et mémorables pour les célébrations et les occasions spéciales.",
+      "dateDebut": "2024-05-02",
+      "tempsDebut": "09:00",
+      "dateFin": "2024-05-02",
+      "tempsFin": "12:00",
+      "location": "Salles des fêtes",
+      "statut": "Validée",
+      "photo": "HDOsgJlYIHsOSUNOkVBJqpddRKxtvvszCNWnqDxBaRatYFbdtB.png",
+      "montant": 0,
+      "encadrent": "Mr.EL RHALLI",
+      "created_at": "2024-04-30 23:49:54",
+      "updated_at": "2024-05-02 16:6:50"
+    },
+    {
+      "id": "9",
+      "name": "Jardinage",
+      "description": "dd",
+      "dateDebut": "2024-06-14",
+      "tempsDebut": "12:00",
+      "dateFin": "2024-06-14",
+      "tempsFin": "12:30",
+      "location": "ISTA LAZARET",
+      "statut": "Validée",
+      "photo": "LieEnEmORoTFRodszTtiqgFXxGxCgurUFFaTVBNyLENfdrhamc.png",
+      "montant": "0",
+      "encadrent": "MR. EL GHAZZALI",
+      "created_at": "2024-06-06 12:29:45"
+    }
+  ],
+  "registrations": [
+    {
+      "userId": "2",
+      "activityId": "1",
+      "id": "1"
+    },
+    {
+      "userId": "3",
+      "activityId": "2",
+      "id": "2"
+    },
+    {
+      "userId": "2",
+      "activityId": "2",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "activityId": "7",
+      "userId": "2"
+    },
+    {
+      "id": "5",
+      "activityId": "3",
+      "userId": "1"
+    },
+    {
+      "id": "5",
+      "activityId": "3",
+      "userId": "1"
+    },
+    {
+      "id": "7",
+      "activityId": "5",
+      "userId": "3"
+    },
+    {
+      "id": "8",
+      "activityId": "7",
+      "userId": "2"
+    },
+    {
+      "id": "9",
+      "activityId": "5",
+      "userId": "2"
+    },
+    {
+      "id": "9",
+      "activityId": "5",
+      "userId": "2"
+    },
+    {
+      "id": "9",
+      "activityId": "5",
+      "userId": "2"
+    },
+    {
+      "id": "9",
+      "activityId": "5",
+      "userId": "2"
+    },
+    {
+      "id": "9",
+      "activityId": "5",
+      "userId": "2"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+::-webkit-scrollbar-track {
+    background-color: #f1f1f1; /* Couleur de fond de la barre de défilement */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #c7c7c7; /* Couleur de la poignée de défilement */
+    border-radius: 6px; /* Coins arrondis */
+    box-shadow: inset 0 0 5px rgba(236, 234, 234, 0.2);
+
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+    background-image: linear-gradient(45deg, #f1f1f1, #e7e6e6);
+    transition: width 0.3s;
+}
+
+
+
